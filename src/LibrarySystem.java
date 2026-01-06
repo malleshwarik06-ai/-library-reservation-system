@@ -1,10 +1,5 @@
 import java.util.*;
 import java.time.*;
-
-/**
- * Simple console-based Library Reservation System.
- * All data is stored in memory (no database).
- */
 public class LibrarySystem {
 
     // -------------------- Domain classes --------------------
